@@ -1,0 +1,55 @@
+{
+  "S": {
+    "data": "Lisa",
+    "type": "NA",
+    "data_head0": {
+      "asz-0": [
+        "Frau",
+        "Person"
+      ],
+      "asz-1": [
+        "weiblich"
+      ],
+      "top-0": [
+        "Vorname"
+      ]
+    },
+    "id": "HASH_ID"
+  },
+  "P": {
+    "data": "isst",
+    "type": "V",
+    "data_head0": "essen",
+    "data_head1": "current",
+    "id": "7294873947239847"
+  },
+  "ADV-P": {
+    "data": "gerne",
+    "type": "ADV",
+    "data_head0": "positive",
+    "data_head1": [
+      "0",
+      [
+        "7294873947239847"
+      ]
+    ],
+    "id": "152345394927643"
+  },
+  "OBJ-AKK": {
+    "data": "Äpfel",
+    "type": "N",
+    "data_head0": "Apfel",
+    "data_head1": {
+      "asz-0": [
+        "Baum"
+      ],
+      "asz-1": [
+        "rot"
+      ],
+      "top-0": [
+        "Frucht",
+        "Essen"
+      ]
+    }
+  }
+}
